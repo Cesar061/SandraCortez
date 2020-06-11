@@ -43,7 +43,7 @@ font-family: 'Metal Mania', cursive; */
   /* servicios */
 
   #SV{
-	background-image: url(/img/bgpr.jpg);
+	background-image: url('../img/bgpr.jpg');
 	background-repeat: repeat-y;
 	background-size: 100%;
 	background-attachment: fixed;
