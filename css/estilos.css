@@ -6,6 +6,17 @@ font-family: 'Anton', sans-serif;
 font-family: 'Metal Mania', cursive; */
 
 
+header{
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+
+html{
+    scroll-behavior: smooth;
+}
+
 .topimg {
     width: 100%;
 }
