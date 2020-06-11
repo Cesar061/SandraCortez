@@ -149,3 +149,34 @@ font-family: 'Metal Mania', cursive; */
     padding-bottom: 5%;
     
 }
+
+
+.porttex{
+    padding-top: 5%
+}
+
+/* contacto */
+
+#contac{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100px;
+
+    background-image: url('../img/bgpr.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+    width: 100%;
+    text-align: center;
+	justify-content: center;
+	align-items: center;
+	margin-right:auto
+}
+
+
+.contacotimg{
+    width: 50px;
+    margin: 20px    ;
+}
