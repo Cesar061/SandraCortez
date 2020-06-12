@@ -105,7 +105,7 @@ html{
  /* sobre mi */
 
  #MI{
-    background-color: bisque;
+    background-color: rgb(255, 255, 255);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
@@ -141,7 +141,7 @@ html{
 
 
  #portafolio{
-    background-color: rgb(156, 152, 146);
+    background-color: rgb(255, 255, 255);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
@@ -175,7 +175,8 @@ html{
     text-align: center;
     height: 100px;
 
-    background-image: url('../img/bgpr.jpg');
+    /* background-color: blue; */
+    background-image: url('../img/bg1.jpg');
 	background-repeat: no-repeat;
 	background-size: 100%;
 	background-attachment: fixed;
